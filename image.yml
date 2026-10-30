@@ -13,6 +13,11 @@ upstream:
   notes:
     type: github_release
     repo: Realm667/WolfenDoom
+  sponsor:
+  - name: Realm667 PayPal donate
+    url: https://www.paypal.com/donate?hosted_button_id=MCGC2LCJ5FHN6
+  - name: Realm667 'Why donating?'
+    url: https://www.realm667.com/about/support-via-paypal
 
 release:
   branch: master
